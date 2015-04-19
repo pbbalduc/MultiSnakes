@@ -1,11 +1,3 @@
-//
-//  Block.swift
-//  Snakes
-//
-//  Created by Paul Balducci on 4/7/15.
-//  Copyright (c) 2015 Clay McLeod. All rights reserved.
-//
-
 import Foundation
 import SpriteKit
 

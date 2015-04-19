@@ -1,10 +1,3 @@
-//
-//  GameScene.swift
-//  MultiSnakes
-//
-//  Created by Paul Balducci on 4/11/15.
-//  Copyright (c) 2015 Bradley Balducci. All rights reserved.
-//
 
 /*
    Feel free to ask about anything; there's still a few problems: there are blank blocks at the Snakes' starting position, I can't get the fruit to

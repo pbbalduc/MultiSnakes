@@ -1,11 +1,3 @@
-//
-//  Array2D.swift
-//  TwoSnakes
-//
-//  Created by Paul Balducci on 4/5/15.
-//  Copyright (c) 2015 Bradley Balducci. All rights reserved.
-//
-
 import Foundation
 
 class Array2D<T> { //T means array will store any type of data

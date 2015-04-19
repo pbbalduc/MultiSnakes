@@ -1,10 +1,3 @@
-//
-//  GameViewController.swift
-//  MultiSnakes
-//
-//  Created by Paul Balducci on 4/11/15.
-//  Copyright (c) 2015 Bradley Balducci. All rights reserved.
-//
 
 import UIKit
 import SpriteKit
